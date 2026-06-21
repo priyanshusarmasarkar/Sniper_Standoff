@@ -1,0 +1,6 @@
+{
+  "name": "Sniper Standoff",
+  "description": "A first-person POV shooter mini-game with a sniper-scope aesthetic where you aim and double-click to take out the Major before his grenades explode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
